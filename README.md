@@ -16,7 +16,7 @@ Ensure you have a C++ compiler installed on your system:
 - 
   sudo apt update && sudo apt install g++
 
-  💻 How to Use in VS Code
+💻 How to Use in VS Code
 1️⃣ Install VS Code
 Download & install Visual Studio Code.
 
@@ -52,11 +52,16 @@ The output will be displayed in the terminal.
 ✅ File Handling – Reading/writing from files.
 ✅ Strings – String functions & manipulation.
 ✅ Practice Problems – Concept-based coding exercises.
-
-🤝 Contributing
+<br>
+<br>
+🤝 Contributing<br>
 Contributions are always welcome! Feel free to fork this repo, improve the code, and submit a pull request.
-
-📩 Author: Your Name
+<br>
+<br>
+📩 Author: Kashif Maqbool Joiya
+<br>
+<br>
 🔗 GitHub Repository: C++ Mastery
-
+<br>
+<br>
 🚀 Happy Coding!
