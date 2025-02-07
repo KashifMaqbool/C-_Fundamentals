@@ -16,23 +16,24 @@ Ensure you have a C++ compiler installed on your system:
 - 
   sudo apt update && sudo apt install g++
 
-💻 How to Use in VS Code
+💻 How to Use in VS Code<br>
 1️⃣ Install VS Code
-Download & install Visual Studio Code.
+Download & install Visual Studio Code.<br>
 
 2️⃣ Install C++ Extensions
 Open VS Code
 Go to Extensions (Ctrl+Shift+X)
 Search for C/C++ (by Microsoft) and install it.
-Install Code Runner (for easy execution).
+Install Code Runner (for easy execution).<br>
 3️⃣ Set Up C++ Compiler in VS Code
 Open Command Palette (Ctrl+Shift+P)
 Type C/C++: Edit Configurations (UI)
 Set the compiler path to the installed compiler location.
+<br>
+<br>
 ▶️ Running C++ Code in VS Code
 Method 1: Using Terminal
 Open the C++ file in VS Code.
-
 Open the terminal (Ctrl+`).
 Compile the file:
 g++ filename.cpp -o output
@@ -42,16 +43,16 @@ Install Code Runner extension.
 Click the Run Button (▶️) on the top-right.
 The output will be displayed in the terminal.
 
-📌 Topics Covered
-✅ Variables & Operators – Data types, arithmetic & logical operations.
-✅ Control Structures – If-else, switch-case, loops (for, while, do-while).
-✅ Loops & Arrays – Iterations, 1D & 2D arrays, multidimensional arrays.
-✅ Functions & Recursion – Function types, call by value/reference, recursion.
-✅ Structures – User-defined data types & implementation.
-✅ Pointers – Pointer arithmetic, memory allocation, and references.
-✅ File Handling – Reading/writing from files.
-✅ Strings – String functions & manipulation.
-✅ Practice Problems – Concept-based coding exercises.
+📌 Topics Covered<br>
+✅ Variables & Operators – Data types, arithmetic & logical operations.<br>
+✅ Control Structures – If-else, switch-case, loops (for, while, do-while).<br>
+✅ Loops & Arrays – Iterations, 1D & 2D arrays, multidimensional arrays.<br>
+✅ Functions & Recursion – Function types, call by value/reference, recursion.<br>
+✅ Structures – User-defined data types & implementation.<br>
+✅ Pointers – Pointer arithmetic, memory allocation, and references.<br>
+✅ File Handling – Reading/writing from files.<br>
+✅ Strings – String functions & manipulation.<br>
+✅ Practice Problems – Concept-based coding exercises.<br>
 <br>
 <br>
 🤝 Contributing<br>
